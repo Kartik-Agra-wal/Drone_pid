@@ -5,7 +5,7 @@ Pid control of hector drone
 git clone https://github.com/RAFALAMAO/hector_quadrotor_noetic
 ```
 
-## Course Workflow
+## Package
 This package contains two launch files
 **
 1.test.launch
