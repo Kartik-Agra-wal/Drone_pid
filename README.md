@@ -13,10 +13,15 @@ This launches the hector drone in an empty world.
 
 **2. bring_hector_drone.launch**
 This launches the drone in a city world environment.
+
 There are three scripts for the control of the drone.
+
 _1.fly_drone.py_
+
 This script alows the drone to hover at a certain height(1.5) based on the data from sonar sensors.
+
 _2.test.py_
+
 This script alows the drone to follow a list of waypoints and land on the last waypoint using PID.
 
 
