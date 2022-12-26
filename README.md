@@ -1,5 +1,6 @@
 # Drone_pid
 Pid control of hector drone
+Time taken : 3 days
 * Clone the repository in your workspace along with this repo
 ```
 git clone https://github.com/RAFALAMAO/hector_quadrotor_noetic
