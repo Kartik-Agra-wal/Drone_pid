@@ -28,7 +28,9 @@ https://user-images.githubusercontent.com/87862080/209577210-8553fd29-e7ed-4020-
 waypoint_x = np.array([10.0, 10.0, -10.0,10.0, 0.0])
 waypoint_y = np.array([0.0 , 10.0, 10.0,-10.0, 0.0])
 ``` 
-the above list in the code can be modified to change the waypoints.Use this for the the empty world for better visualization
+the above list in the code can be modified to change the waypoints.Use this for the the empty world for better visualization.
+
+
 _3. pid_control.py_
 This script is similar to the test.py file ,it is just setup for moving from point A to B on the city environment.
 ```
