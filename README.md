@@ -18,6 +18,12 @@ _1.fly_drone.py_
 This script alows the drone to hover at a certain height(1.5) based on the data from sonar sensors.
 _2.test.py_
 This script alows the drone to follow a list of waypoints and land on the last waypoint using PID.
+
+
+https://user-images.githubusercontent.com/87862080/209577210-8553fd29-e7ed-4020-a837-aaf6538eefe7.mp4
+
+
+
 ``` 
 waypoint_x = np.array([10.0, 10.0, -10.0,10.0, 0.0])
 waypoint_y = np.array([0.0 , 10.0, 10.0,-10.0, 0.0])
@@ -30,4 +36,8 @@ This script is similar to the test.py file ,it is just setup for moving from poi
     waypoint_y = np.array([100.0])
 ```
 You can change the destination points here 
+
+
+https://user-images.githubusercontent.com/87862080/209577217-cf5d4eab-4fa4-4a0c-ab26-018abf7531cb.mp4
+
 
